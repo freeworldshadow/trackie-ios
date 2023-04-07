@@ -1,4 +1,4 @@
-# startvpn in appstore
+# Trackie - manga tracker
 
 
 <div align="center">
